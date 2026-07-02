@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Om.
 
-<!--
-**OmMathur23/OmMathur23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started out exploring different areas of computer science, but eventually found myself drawn to Machine Learning. That curiosity naturally led me into Deep Learning, and these days I'm focused on understanding how modern AI systems work from first principles.
 
-Here are some ideas to get you started:
+Right now I'm deep-diving into Transformers, NLP, and LLMs. Next on my roadmap is building production-ready applications with LangChain and RAG.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I've built
+-  Diabetes Risk Prediction
+-  Generative Pretrained Transformer on Silmarillion 
+-  Reimplemented Micrograd
+-  WhatsApp Document Validator
+-  OCR APIs
+
+> Learning by building.
